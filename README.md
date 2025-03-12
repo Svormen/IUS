@@ -1,2 +1,2 @@
 # IUS
-Ůvod do softwarového inžinierstva
+Úvod do softwarového inžinierstva
